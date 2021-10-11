@@ -1,0 +1,16 @@
+.advanced-image {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.inspect-image {
+    border-radius: 100%;
+    border: 1px solid black;
+    position: absolute;
+    pointer-events: none;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
